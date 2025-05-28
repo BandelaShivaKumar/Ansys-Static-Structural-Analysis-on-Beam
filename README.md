@@ -2,7 +2,7 @@
 Static Structural Analysis on Beam- Stress,Strain,Total Deformation in Ansys(Project 2)
 # 📐 Static Structural Analysis of a 3D Beam in ANSYS (Project 2)
 
-My Project Direct Youtube Link - https://youtu.be/h6KB-ocLbcM
+(My Youtube Channel) Project Direct Youtube Link - https://youtu.be/h6KB-ocLbcM
 
 This project demonstrates the static structural analysis of a 3D beam subjected to a point load (pressure from a monkey) using ANSYS 2025 R1. The objective is to determine the **equivalent (von-Mises) stress**, **total deformation**, and **strain distribution** across the beam.
 
