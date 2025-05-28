@@ -15,6 +15,7 @@ This project demonstrates the static structural analysis of a 3D beam subjected 
 ## 📋 Problem Definition
 
 Problem Image - https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Problem%20Image/Screenshot%202025-05-19%20153141.png
+
 Analyze a 3D beam under loading due to a monkey's weight sitting on a small region.
 
 ### 📏 Beam Dimensions (in meters):
@@ -64,8 +65,11 @@ Analyze a 3D beam under loading due to a monkey's weight sitting on a small regi
 ## 📊 Results Summary
 
 Results Images - Total Deformation- https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-19%20202644.png
+
                 Equivalent Stress - https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-19%20202653.png
+                
                 Maximum Principal Elastic Strain - https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-19%20202709.png
+                
                 Directional Deforamtion - https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-19%20201910.png
                 
 ### 📌 Equivalent Stress (von-Mises):
