@@ -64,14 +64,8 @@ Analyze a 3D beam under loading due to a monkey's weight sitting on a small regi
 
 ## 📊 Results Summary
 
-Results Images - Total Deformation- https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-19%20202644.png
+Results Images - Directional Deforamtion - https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-19%20201910.png
 
-                Equivalent Stress - https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-19%20202653.png
-                
-                Maximum Principal Elastic Strain - https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-19%20202709.png
-                
-                Directional Deforamtion - https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-19%20201910.png
-                
 ### 📌 Equivalent Stress (von-Mises):
 
 | Metric     | Value         |
@@ -80,12 +74,12 @@ Results Images - Total Deformation- https://github.com/BandelaShivaKumar/Ansys-S
 | **Min**    | 3484.2 Pa     |
 
 ### 📌 Total Deformation:
-
+Total Deformation- https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-19%20202644.png
 - Maximum observed at free end near the load application.
 - Minimal at fixed support region.
 
 ### 📌 Strain Distribution:
-
+ Maximum Principal Elastic Strain - https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-19%20202709.png
 - Linear distribution observed along the length due to bending.
 - Maximum strain at the top outermost fiber (in tension side).
 
@@ -93,7 +87,7 @@ Results Images - Total Deformation- https://github.com/BandelaShivaKumar/Ansys-S
 
 ## 📈 Visualization
 
-![Equivalent Stress](./images/equivalent_stress_beam.png)
+Equivalent Stress - https://github.com/BandelaShivaKumar/Ansys-Static-Structural-Analysis-on-Beam/blob/main/Images%20step%20by%20step%20process/Screenshot%202025-05-19%20202653.png
 
 > Tip: For better visual interpretation, enable contour legend, minimum/maximum probe markers, and vector arrows in the result section.
 
